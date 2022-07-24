@@ -1,0 +1,11 @@
+pkg install bash
+pkg install git
+pkg install ruby
+pkg install python python2 python3
+pip install requests bs4 mechanize
+gem install lolcat
+git clone https://github.com/AZRIL-03/vidio-Bokep.git
+bash or sh for running is script
+bash Pokeb.sh
+
+               -enjoy_for_Vokep-
